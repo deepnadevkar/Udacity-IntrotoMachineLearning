@@ -1,2 +1,3 @@
 # Udacity-IntrotoMachineLearning
-completed exercises to Udacity's Machine Learning course
+
+includes notes from the class and my completed exercises and mini projects.  
